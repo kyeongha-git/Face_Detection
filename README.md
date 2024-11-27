@@ -5,6 +5,10 @@ A [PyTorch](https://pytorch.org/) implementation of [RetinaFace: Single-stage De
 ## Mobile or Edge device deploy
 We also provide a set of Face Detector for edge device in [here](https://github.com/biubug6/Face-Detector-1MB-with-landmark) from python training to C++ inference.
 
+#ACWFace in Pytorch
+[ACWFace: efficient and lightweight face detector]([https://doi.org/10.1117/1.JEI.31.1.013012]).
+
+
 ## WiderFace Val Performance in single scale When using Resnet50 as backbone net.
 | Style | easy | medium | hard |
 |:-|:-:|:-:|:-:|
