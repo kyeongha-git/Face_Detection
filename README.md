@@ -5,7 +5,7 @@ A [PyTorch](https://pytorch.org/) implementation of [RetinaFace: Single-stage De
 ## Mobile or Edge device deploy
 We also provide a set of Face Detector for edge device in [here](https://github.com/biubug6/Face-Detector-1MB-with-landmark) from python training to C++ inference.
 
-#ACWFace in Pytorch
+##ACWFace in Pytorch
 
 [ACWFace: efficient and lightweight face detector]([https://doi.org/10.1117/1.JEI.31.1.013012]).
 Since the code was not provided in the ACWFace paper, we implemented the method proposed in the ACWFace paper directly in the above RetinaFace implementation.
